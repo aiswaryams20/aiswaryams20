@@ -52,19 +52,19 @@
 
 ### 📄 AI Resume Keyword Matcher  
 > AI-based tool to match resumes with job descriptions using NLP  
-🔗 [Repo Link](https://github.com/aiswaryams20)
+🔗 [Repo Link](https://github.com/aiswaryams20/AI-powered-Resume-Matcher)
 
 ---
 
 ### 📚 SkillSpot – Internship Hiring App  
 > Cross-platform internship platform with role-based access and Supabase backend  
-🔗 [Repo Link](https://github.com/aiswaryams20)
+🔗 [Repo Link](https://github.com/aiswaryams20/SkillSpotApp)
 
 ---
 
 ### 🧩 AI Summarizer Chrome Extension  
 > Chrome Extension to summarize web pages using Hugging Face Transformers  
-🔗 [Repo Link](https://github.com/aiswaryams20)
+🔗 [Repo Link](https://github.com/aiswaryams20/AI-Summarizer-Extension)
 
 ---
 
