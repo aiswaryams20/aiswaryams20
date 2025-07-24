@@ -77,8 +77,6 @@
 
 ---
 
----
-
 ## 📬 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiswarya-ms-28a441257)
