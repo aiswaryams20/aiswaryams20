@@ -31,11 +31,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232a?style=flat&logo=react)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
 
 ### ☁️ Tools, APIs & Platforms  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=supabase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
@@ -93,4 +93,4 @@
 
 ---
 
-> *Last Updated: July 2025*
+
