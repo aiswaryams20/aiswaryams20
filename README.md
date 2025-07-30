@@ -9,6 +9,7 @@
 
 🎓 Final Year Computer Science Engineering Student (2022–2026)  
 🏫 Velammal College of Engineering and Technology
+
 💡 Passionate about AI/ML, Full Stack Development, and Data Visualization  
 🧠 IEEE Author | Chrome Extension Dev | Real-world AI Utility Builder  
 🌱 Currently learning System Design & ML Model Deployment
